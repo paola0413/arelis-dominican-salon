@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://arelisdominicansalonfl.com/sitemap.xml
+# AI assistants: business summary at https://arelisdominicansalonfl.com/llms.txt
